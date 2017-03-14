@@ -1,6 +1,7 @@
 package masterspringmvc.config;
 
 import masterspringmvc.utils.USLocalDateformatter;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
 import org.springframework.format.FormatterRegistry;
 import org.springframework.web.servlet.LocaleResolver;
